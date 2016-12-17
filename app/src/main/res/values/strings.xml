@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Router_Reset</string>
+    <string name="statusConstVal">Status:</string>
+    <string name="statusViewVal">Awaiting connection...</string>
+    <string name="buttonEnableText">Enable</string>
+    <string name="buttonConnectText">Connect</string>
+    <string name="buttonDisconnectText">Disconnect</string>
+    <string name="resetText">Reset Router</string>
+    <string name="scanButtonText">Scan</string>
+    <string name="statusConnected">Connected</string>
 </resources>
